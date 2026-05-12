@@ -3,7 +3,7 @@ public class App {
     Ejercicio ejercicios = new Ejercicio();
     
     int n = ejercicios.sumaConsecutivos(5);
-    System.out.println("Ejercicio 1: " + n);
+    System.out.println("------------Ejercicio 1---------------------- " );
 
     System.out.println("Impresion");
     int pasos = ejercicios.sumaConsecutivosPasos(5);
